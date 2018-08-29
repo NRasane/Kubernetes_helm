@@ -1,2 +1,2 @@
 # Kubernetes_helm
-Helm
+Helm configurations
